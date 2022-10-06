@@ -44,7 +44,7 @@
 
 <figure>
 	<img alt="Success Kid" src="{successkid}">
-	<figcaption>Tetime Sapper !</figcaption>
+	<figcaption>Testing Sapper(new branch)</figcaption>
 </figure>
 
 <p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
