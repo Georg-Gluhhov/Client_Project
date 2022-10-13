@@ -12,7 +12,7 @@
     "compression": "^1.7.1",
     "polka": "next",
     "sirv": "^1.0.0"
-  },
+  }, 
   "devDependencies": {
     "sapper": "^0.28.0",
     "svelte": "^3.17.3",
